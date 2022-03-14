@@ -45,7 +45,7 @@ char grading(float score) {
 }
 
 int prog2(void) {
-    int tab[N] = { -1, -1, -1, -1, -1};
+    int tab[N] = { -1, -1, -1, -1, -1 };
     char surename[32] = {'\0'};
     float score;
     
